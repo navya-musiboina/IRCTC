@@ -1,0 +1,6 @@
+1 2 12956 jp-pune_exp 3:20PM 51 587
+2 1 12957 jp-pune_exp 9:15AM 87 501
+20 21 19876 goa_exp 5:00PM 54 709
+3 2 10786 jhelum 5:25PM 112 654
+1 9 11760 jp-mumbai-exp 2:00PM 67 543
+1 2 34561 premium 11:00AM 45 1700
