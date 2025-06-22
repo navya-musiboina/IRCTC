@@ -16,8 +16,3 @@ The project is developed in Windows OS, on QT creator 5.5.1
 
 For running project, make sure that you set the project in folder D:/qt/irctc3 (this is the path set in project for files), or change the file path, if you clone project in any other folder
 
-## Project Contributers
-
-[Mandeep Singh](https://github.com/msdeep14)
-
-[Pawan sheoran](https://github.com/pawan231)
